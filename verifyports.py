@@ -1,5 +1,5 @@
 #/usr/bin/python
-#This script will verify that all ports associated with a network uuid are legitimately linked to a cloud server
+#This script will identify all ports not associated with a cloud server
 
 import argparse
 import json
